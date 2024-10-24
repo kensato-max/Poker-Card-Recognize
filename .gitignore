@@ -1,4 +1,5 @@
 /__pycache__
 /Manual_Dataset
 /dist
+/build
 .knn_model.xml
